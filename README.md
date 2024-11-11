@@ -15,5 +15,3 @@ In the project directory : /server, you can run:
 
 Runs the app in the development mode.\
 Then, you can open http://localhost:3001 in your browser to view it.
-
-my new redeme
